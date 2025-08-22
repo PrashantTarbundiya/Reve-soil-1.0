@@ -12,12 +12,13 @@ The notebook (`reveSoil.ipynb`) handles:
 ---
 
 ## 📂 Project Structure
+```
 .
 ├── reveSoil.ipynb                  # Main Jupyter Notebook
 ├── soildataset.xlsx                # Raw dataset (Excel format)
 ├── aggregated_soil_data_means.csv  # Processed soil data (CSV)
 └── README.md                       # Documentation
-
+```
 ---
 
 ## ⚙️ Installation
